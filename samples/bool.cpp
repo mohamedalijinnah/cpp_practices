@@ -14,7 +14,7 @@ int main(){
        flag = true;
 
     std::cout << "Flag is " << flag;
-Test
+
     std::cout << std::endl;
 
 
